@@ -1,0 +1,117 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Components
+  commentId: N:ASE_Assignment_Demo.Components
+  id: ASE_Assignment_Demo.Components
+  children:
+  - ASE_Assignment_Demo.Components.AppArray
+  - ASE_Assignment_Demo.Components.AppBoolean
+  - ASE_Assignment_Demo.Components.AppCommandConditional
+  - ASE_Assignment_Demo.Components.AppCommandFactory
+  - ASE_Assignment_Demo.Components.AppCompoundCommand
+  - ASE_Assignment_Demo.Components.AppEnd
+  - ASE_Assignment_Demo.Components.AppInt
+  - ASE_Assignment_Demo.Components.AppMethod
+  - ASE_Assignment_Demo.Components.AppParser
+  - ASE_Assignment_Demo.Components.AppReal
+  - ASE_Assignment_Demo.Components.GlobalConfiguration
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Demo.Components
+  nameWithType: ASE_Assignment_Demo.Components
+  fullName: ASE_Assignment_Demo.Components
+  type: Namespace
+  assemblies:
+  - ASE Assignment Demo
+references:
+- uid: ASE_Assignment_Demo.Components.AppArray
+  commentId: T:ASE_Assignment_Demo.Components.AppArray
+  parent: ASE_Assignment_Demo.Components
+  href: ASE_Assignment_Demo.Components.AppArray.html
+  name: AppArray
+  nameWithType: AppArray
+  fullName: ASE_Assignment_Demo.Components.AppArray
+- uid: ASE_Assignment_Demo.Components.AppBoolean
+  commentId: T:ASE_Assignment_Demo.Components.AppBoolean
+  href: ASE_Assignment_Demo.Components.AppBoolean.html
+  name: AppBoolean
+  nameWithType: AppBoolean
+  fullName: ASE_Assignment_Demo.Components.AppBoolean
+- uid: ASE_Assignment_Demo.Components.AppCommandConditional
+  commentId: T:ASE_Assignment_Demo.Components.AppCommandConditional
+  href: ASE_Assignment_Demo.Components.AppCommandConditional.html
+  name: AppCommandConditional
+  nameWithType: AppCommandConditional
+  fullName: ASE_Assignment_Demo.Components.AppCommandConditional
+- uid: ASE_Assignment_Demo.Components.AppCommandFactory
+  commentId: T:ASE_Assignment_Demo.Components.AppCommandFactory
+  href: ASE_Assignment_Demo.Components.AppCommandFactory.html
+  name: AppCommandFactory
+  nameWithType: AppCommandFactory
+  fullName: ASE_Assignment_Demo.Components.AppCommandFactory
+- uid: ASE_Assignment_Demo.Components.AppCompoundCommand
+  commentId: T:ASE_Assignment_Demo.Components.AppCompoundCommand
+  parent: ASE_Assignment_Demo.Components
+  href: ASE_Assignment_Demo.Components.AppCompoundCommand.html
+  name: AppCompoundCommand
+  nameWithType: AppCompoundCommand
+  fullName: ASE_Assignment_Demo.Components.AppCompoundCommand
+- uid: ASE_Assignment_Demo.Components.AppEnd
+  commentId: T:ASE_Assignment_Demo.Components.AppEnd
+  href: ASE_Assignment_Demo.Components.AppEnd.html
+  name: AppEnd
+  nameWithType: AppEnd
+  fullName: ASE_Assignment_Demo.Components.AppEnd
+- uid: ASE_Assignment_Demo.Components.AppInt
+  commentId: T:ASE_Assignment_Demo.Components.AppInt
+  href: ASE_Assignment_Demo.Components.AppInt.html
+  name: AppInt
+  nameWithType: AppInt
+  fullName: ASE_Assignment_Demo.Components.AppInt
+- uid: ASE_Assignment_Demo.Components.AppMethod
+  commentId: T:ASE_Assignment_Demo.Components.AppMethod
+  href: ASE_Assignment_Demo.Components.AppMethod.html
+  name: AppMethod
+  nameWithType: AppMethod
+  fullName: ASE_Assignment_Demo.Components.AppMethod
+- uid: ASE_Assignment_Demo.Components.AppParser
+  commentId: T:ASE_Assignment_Demo.Components.AppParser
+  href: ASE_Assignment_Demo.Components.AppParser.html
+  name: AppParser
+  nameWithType: AppParser
+  fullName: ASE_Assignment_Demo.Components.AppParser
+- uid: ASE_Assignment_Demo.Components.AppReal
+  commentId: T:ASE_Assignment_Demo.Components.AppReal
+  href: ASE_Assignment_Demo.Components.AppReal.html
+  name: AppReal
+  nameWithType: AppReal
+  fullName: ASE_Assignment_Demo.Components.AppReal
+- uid: ASE_Assignment_Demo.Components.GlobalConfiguration
+  commentId: T:ASE_Assignment_Demo.Components.GlobalConfiguration
+  href: ASE_Assignment_Demo.Components.GlobalConfiguration.html
+  name: GlobalConfiguration
+  nameWithType: GlobalConfiguration
+  fullName: ASE_Assignment_Demo.Components.GlobalConfiguration
+- uid: ASE_Assignment_Demo.Components
+  commentId: N:ASE_Assignment_Demo.Components
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Components
+  nameWithType: ASE_Assignment_Demo.Components
+  fullName: ASE_Assignment_Demo.Components
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Components
+    name: Components
+    href: ASE_Assignment_Demo.Components.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Components
+    name: Components
+    href: ASE_Assignment_Demo.Components.html

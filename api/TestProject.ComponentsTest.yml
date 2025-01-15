@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: TestProject.ComponentsTest
+  commentId: N:TestProject.ComponentsTest
+  id: TestProject.ComponentsTest
+  children:
+  - TestProject.ComponentsTest.AppParserTests
+  langs:
+  - csharp
+  - vb
+  name: TestProject.ComponentsTest
+  nameWithType: TestProject.ComponentsTest
+  fullName: TestProject.ComponentsTest
+  type: Namespace
+  assemblies:
+  - TestProject
+references:
+- uid: TestProject.ComponentsTest.AppParserTests
+  commentId: T:TestProject.ComponentsTest.AppParserTests
+  href: TestProject.ComponentsTest.AppParserTests.html
+  name: AppParserTests
+  nameWithType: AppParserTests
+  fullName: TestProject.ComponentsTest.AppParserTests
