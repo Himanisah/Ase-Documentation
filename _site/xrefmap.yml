@@ -1581,6 +1581,47 @@ references:
   isSpec: "True"
   fullName: ASE_Assignment_Demo.GlobalConfig.FilledStatus
   nameWithType: GlobalConfig.FilledStatus
+- uid: ASE_Assignment_Demo.Loading
+  name: Loading
+  href: api/ASE_Assignment_Demo.Loading.html
+  commentId: T:ASE_Assignment_Demo.Loading
+  fullName: ASE_Assignment_Demo.Loading
+  nameWithType: Loading
+- uid: ASE_Assignment_Demo.Loading.#ctor
+  name: Loading()
+  href: api/ASE_Assignment_Demo.Loading.html#ASE_Assignment_Demo_Loading__ctor
+  commentId: M:ASE_Assignment_Demo.Loading.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Demo.Loading.Loading()
+  fullName.vb: ASE_Assignment_Demo.Loading.New()
+  nameWithType: Loading.Loading()
+  nameWithType.vb: Loading.New()
+- uid: ASE_Assignment_Demo.Loading.#ctor*
+  name: Loading
+  href: api/ASE_Assignment_Demo.Loading.html#ASE_Assignment_Demo_Loading__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Loading.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Loading.Loading
+  fullName.vb: ASE_Assignment_Demo.Loading.New
+  nameWithType: Loading.Loading
+  nameWithType.vb: Loading.New
+- uid: ASE_Assignment_Demo.Loading.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/ASE_Assignment_Demo.Loading.html#ASE_Assignment_Demo_Loading_Dispose_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.Loading.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: ASE_Assignment_Demo.Loading.Dispose(bool)
+  fullName.vb: ASE_Assignment_Demo.Loading.Dispose(Boolean)
+  nameWithType: Loading.Dispose(bool)
+  nameWithType.vb: Loading.Dispose(Boolean)
+- uid: ASE_Assignment_Demo.Loading.Dispose*
+  name: Dispose
+  href: api/ASE_Assignment_Demo.Loading.html#ASE_Assignment_Demo_Loading_Dispose_
+  commentId: Overload:ASE_Assignment_Demo.Loading.Dispose
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Loading.Dispose
+  nameWithType: Loading.Dispose
 - uid: ASE_Assignment_Demo.Parser
   name: Parser
   href: api/ASE_Assignment_Demo.Parser.html

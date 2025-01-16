@@ -37,6 +37,9 @@ items:
   - uid: ASE_Assignment_Demo.Form1
     name: Form1
     type: Class
+  - uid: ASE_Assignment_Demo.Loading
+    name: Loading
+    type: Class
   - uid: ASE_Assignment_Demo.Reset
     name: Reset
     type: Class

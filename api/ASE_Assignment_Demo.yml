@@ -15,6 +15,7 @@ items:
   - ASE_Assignment_Demo.Clear
   - ASE_Assignment_Demo.Fill
   - ASE_Assignment_Demo.Form1
+  - ASE_Assignment_Demo.Loading
   - ASE_Assignment_Demo.Reset
   - ASE_Assignment_Demo.Triangle
   - ASE_Assignment_Demo.WriteTo
@@ -94,6 +95,12 @@ references:
   name: Form1
   nameWithType: Form1
   fullName: ASE_Assignment_Demo.Form1
+- uid: ASE_Assignment_Demo.Loading
+  commentId: T:ASE_Assignment_Demo.Loading
+  href: ASE_Assignment_Demo.Loading.html
+  name: Loading
+  nameWithType: Loading
+  fullName: ASE_Assignment_Demo.Loading
 - uid: ASE_Assignment_Demo.Reset
   commentId: T:ASE_Assignment_Demo.Reset
   href: ASE_Assignment_Demo.Reset.html
